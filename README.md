@@ -5,8 +5,13 @@ A Twitter sentiment analysis is the process of determining the emotional tone be
 
 
 Software Requirements -
+
 • Operating System Windows 10
+
 • Visual Studio code
+
 • Twitter Developer Account
+
 • Python
+
 • HTML and CSS
